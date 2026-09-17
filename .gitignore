@@ -223,3 +223,4 @@ project_docs/
 outputs/
 materials/
 catboost_info/
+models/
